@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "逆光 (ウタ from ONE PIECE FILM RED)",
+  "base_artist": "Ado",
+  "createdAt": "2025-12-05T11:03:02.932508Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "逆光 (ウタ from ONE PIECE FILM RED)",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/01_逆光_(ウタ_from_ONE_PIECE_FILM_RED)_Ado.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "逆光 - ウタ from ONE PIECE FILM RED",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/02_逆光_-_ウタ_from_ONE_PIECE_FILM_RED_Ado.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "逆光 (ウタ from ONE PIECE FILM RED)",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/03_逆光_(ウタ_from_ONE_PIECE_FILM_RED)_Ado.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "逆光 - ウタ from ONE PIECE FILM RED",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/04_逆光_-_ウタ_from_ONE_PIECE_FILM_RED_Ado.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "逆光 (ウタ from ONE PIECE FILM RED) - Backlight (UTA from ONE PIECE FILM RED)",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/05_逆光_(ウタ_from_ONE_PIECE_FILM_RED)_-_Backlight_(UTA_from_ONE_PIECE_FILM_RED)_Ado.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "逆光 (ウタ from ONE PIECE FILM RED)",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/06_逆光_(ウタ_from_ONE_PIECE_FILM_RED)_Ado.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "逆光 [ウタ from ONE PIECE FILM RED]",
+      "artist": "Ado",
+      "has_synced": false,
+      "path": "select/pl_01_逆光_[ウタ_from_ONE_PIECE_FILM_RED]_Ado.txt"
+    }
+  ]
+}
